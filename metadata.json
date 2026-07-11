@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Zallah Data Sub",
+  "description": "Premium Android app for instant data, airtime, and utility payments with secure wallet management and referral rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
